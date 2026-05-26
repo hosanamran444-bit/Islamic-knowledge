@@ -1,0 +1,6 @@
+{
+  "name": "ইসলামিক নলেজ",
+  "description": "একটি পূর্ণাঙ্গ বাংলা ইসলামিক অ্যাপ যাতে কুরআন ও হাদীস (আরবি ও বাংলা অনুবাদ), নামাজের সময়সূচি, কিবলা এবং গুরুত্বপূর্ণ ইসলামিক বিষয়ের আলোচনা রয়েছে।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
